@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StrategyPattern</string>
+    <string name="tv_price">sigle price</string>
+    <string name="tv_amount">amount</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_reset">reset</string>
+    <string name="tv_sum">sum price</string>
+</resources>
