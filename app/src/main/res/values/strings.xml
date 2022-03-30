@@ -5,4 +5,10 @@
     <string name="btn_ok">OK</string>
     <string name="btn_reset">reset</string>
     <string name="tv_sum">sum price</string>
+
+    <string-array name="Discount">
+        <item>NO</item>
+        <item>80%</item>
+        <item>50%</item>
+    </string-array>
 </resources>
